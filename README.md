@@ -19,4 +19,5 @@ Projeto simples de cara ou coroa desenvolvido como parte de um desafio do [devCh
 Desenvolvido por [Henrique Borges](https://github.com/HenriqueBorgesProg)
 
 ## Live Site:
-No githubpages [AQUI](henriqueborgesprog.github.io./jogo-moeda/)
+Se quiser ver o Site funcionando [Clique aqui](https://henriqueborgesprog.github.io./jogo-moeda/)
+ 
