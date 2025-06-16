@@ -14,10 +14,10 @@ Projeto simples de cara ou coroa desenvolvido como parte de um desafio do [devCh
 - Exibição do resultado (Cara ou Coroa)
 - Sombra visível somente após o primeiro lançamento
 
+## 🔗 Live Site
+
+Se quiser ver o site funcionando, [clique aqui](https://henriqueborgesprog.github.io/jogo-moeda/)
+
 ## 👨‍💻 Autor
 
 Desenvolvido por [Henrique Borges](https://github.com/HenriqueBorgesProg)
-
-## Live Site:
-Se quiser ver o Site funcionando [Clique aqui](https://henriqueborgesprog.github.io./jogo-moeda/)
- 

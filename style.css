@@ -92,3 +92,47 @@ body {
 .tails {
   background-image: url('resources/tails.svg');
 }
+
+
+@media (max-width: 768px) {
+  .wrapper {
+    margin-top: 8rem;
+    padding: 0 1rem;
+  }
+
+  .text h1 {
+    font-size: 2.5rem;
+    -webkit-text-stroke-width: 2px;
+  }
+
+  .text h2 {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .coin {
+    width: 80px;
+    height: 80px;
+  }
+
+  .shadow {
+    width: 60px;
+  }
+
+  .result-text {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+  }
+
+  #flipBtn {
+    width: 140px;
+    height: 42px;
+    font-size: 1.1rem;
+  }
+
+  .author-info {
+    font-size: 0.875rem;
+    text-align: center;
+    margin-top: 2rem;
+  }
+}
